@@ -1,3 +1,6 @@
+/*A book is shared among 5 friends.each friend will read the book but at a time the book
+can not be read by any two persons. Show how the book is read by the friends.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
